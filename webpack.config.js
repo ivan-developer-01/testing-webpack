@@ -1,7 +1,7 @@
 module.exports = {
 	entry: "./src/index.js",
 	output: {
-		filename: "yoohoo.js",
+		filename: "main.js",
 	},
 	mode: "development",
 };
